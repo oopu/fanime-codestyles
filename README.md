@@ -1,0 +1,1 @@
+# fanime-codestyles
