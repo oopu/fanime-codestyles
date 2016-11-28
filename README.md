@@ -50,5 +50,5 @@ have been approved with a commit message like the following:
    PR: 2
    Reviewer: oopu
    
-   Other optional notes go here# fanime-codestyles
+   Other optional notes go here
    
